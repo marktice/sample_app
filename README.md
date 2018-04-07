@@ -1,9 +1,11 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Sample application
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
+
+Currently upto chapter 7, where i will make a working signup form for creating new users, with a page to then display each user's information.
 
 ## License
 
